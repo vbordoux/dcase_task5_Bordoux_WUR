@@ -1,3 +1,9 @@
+This repository is based on the repository: https://github.com/haoheliu/DCASE_2022_Task_5
+It was used to participate to the DCASE challenge task 5 2024.
+The technical report associated with the method developped in this repository can be find here: https://dcase.community/documents/challenge2024/technical_reports/DCASE2024_Bordoux_66_5.pdf
+
+
+
 # Few-shot Bioacoustic Event Detection (DCASE 2022 Task 5) source code
 This is the official repository for Few-shot Bioacoustic Event Detection (Task 5 in the DCASE Challenge 2022). This repository contains the source code to run the evaluation metrics, and the baseline systems, along with a detailed description of the task. 
 
